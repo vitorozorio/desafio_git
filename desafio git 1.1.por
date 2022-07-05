@@ -1,7 +1,7 @@
 programa // desafio git 1.1
 // tivemos alguns problemas no nosso ultimo algoritimo
 // iremos reparalos em uma segunda versão do nosso codigo 
-// usaremos melhores opçãoes de desvios de condicionais 
+// usaremos melhores opções de desvios de condicionais 
 {
 	
 	funcao inicio()
